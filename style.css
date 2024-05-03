@@ -1,0 +1,210 @@
+/* Main File (index.html) */
+
+body {
+  background-color:rgb(0, 191, 255);
+}
+.Title {
+  font-family: sans-serif;
+  font: bolder;
+  font-size: 50px;
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  border-color: yellow;
+  border-style: solid;
+  border-width: 5px;
+  cursor: default;
+}
+
+.button1 {
+    font-size: 100px;
+    position: absolute;
+    top: 100px;
+    font-family: sans-serif;
+    border-radius: 100px;
+    width: 450px;
+    color: white;
+    background-color: #4CAF50;
+    font-size: 50px;
+    left: 473px;
+    cursor: pointer;
+    border: solid;
+    border-width: 8px;
+    border-color: black;
+}
+
+.button2 {
+    font-size: 100px;
+    position: absolute;
+    top: 270px;
+    font-family: sans-serif;
+    border-radius: 100px;
+    width: 450px;
+    color: white;
+    background-color: #4CAF50;
+    font-size: 50px;
+    left: 473px;
+    cursor: pointer;
+    border: solid;
+    border-width: 8px;
+    border-color: black;
+    height: 120px;
+}
+
+.button3 {
+    font-size: 250px;
+    position: absolute;
+    top: 450px;
+    font-family: sans-serif;
+    border-radius: 100px;
+    width: 450px;
+    color: white;
+    background-color: #4CAF50;
+    font-size: 50px;
+    left: 473px;
+    cursor: pointer;
+    border: solid;
+    border-width: 8px;
+    border-color: black;
+    /* height: 120px; */
+    text-align: 50px;
+}
+
+/* Limited Capabilites (limted-capti.html) */
+
+.Title_limited-cap {
+  font-family: sans-serif;
+  font: bolder;
+  font-size: 50px;
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  border-color: yellow;
+  border-style: solid;
+  border-width: 5px;
+  cursor: default;
+}
+
+.Text_Box_1_limited-cap {
+  border-radius: 50px;
+  color: black;
+  background-color: white;
+  position: absolute;
+  font-size: 30px;
+  font-family: sans-serif;
+  top: 150px;
+  width: 600px;
+  left: 400px;
+  border: solid;
+  border-color: black;
+  border-width: 8px;
+}
+
+.Text_Box_2_limited-cap {
+  border-radius: 50px;
+  color: black;
+  background-color: white;
+  position: absolute;
+  font-size: 30px;
+  font-family: sans-serif;
+  top: 400px;
+  width: 600px;
+  left: 400px;
+  border: solid;
+  border-color: black;
+  border-width: 8px;
+}
+
+.Menu {
+    font-size: 100px;
+    position: absolute;
+    top: 100px;
+    font-family: sans-serif;
+    border-radius: 100px;
+    width: 250px;
+    color: white;
+    background-color: #4CAF50;
+    font-size: 50px;
+    left: 43px;
+    cursor: pointer;
+    border: solid;
+    border-width: 8px;
+    border-color: black;
+}
+
+/* Updates Page (updates.html) */
+
+.Title_Updates {
+  font-family: sans-serif;
+  font: bolder;
+  font-size: 50px;
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  border-color: yellow;
+  border-style: solid;
+  border-width: 5px;
+  cursor: default;
+}
+
+.Updates_Info {
+  border-radius: 50px;
+  color: black;
+  background-color: white;
+  position: absolute;
+  font-size: 30px;
+  font-family: sans-serif;
+  top: 150px;
+  width: 600px;
+  left: 400px;
+  border: solid;
+  border-color: black;
+  border-width: 8px;
+}
+
+.Upcoming_Updates {
+  border-radius: 50px;
+  color: black;
+  background-color: white;
+  position: absolute;
+  font-size: 30px;
+  font-family: sans-serif;
+  top: 400px;
+  width: 600px;
+  left: 400px;
+  border: solid;
+  border-color: black;
+  border-width: 8px;
+}
+
+/* Game Unblocker Window */
+
+.Title_Game_Unblocker {
+  font-family: sans-serif;
+  font: bolder;
+  font-size: 50px;
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  border-color: yellow;
+  border-style: solid;
+  border-width: 5px;
+  cursor: default;
+}
+
+.full_screen_button {
+  font-size: 10px;
+  position: absolute;
+  bottom: 20px;
+  font-family: sans-serif;
+  border-radius: 100px;
+  width: 500px;
+  color: white;
+  background-color: #4CAF50;
+  font-size: 50px;
+  left: 450px;
+  cursor: pointer;
+  border: solid;
+  border-width: 8px;
+  border-color: black;
+}
